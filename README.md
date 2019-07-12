@@ -19,7 +19,7 @@ Several resources were helpful for this step:
      SuperDroid example code for methods of mixing RC signals for Mecanum wheel control and control of their DC motor drivers
      
 # Hardware
-  Superdroids IG42-DB tobot chassis
+  Superdroids IG42-DB Robot chassis
   
   Mega 2560 Arduino
   
