@@ -5,7 +5,7 @@ Software for SuperDroid Programmable Mecanum Wheel Vectoring Robot - IG42 DB pro
 Learn Arduino and NVidia Jetson Nano platforms using a SuperDroids IG42 DB platform as a base. 
 
 # Current Status
-Initial movement control via RadioLink AT10 RC controller completed. 
+Initial movement control with Arduino Mega2560 and RadioLink AT10 RC controller completed. 
 
 Several resources were helpful for this step:
 
